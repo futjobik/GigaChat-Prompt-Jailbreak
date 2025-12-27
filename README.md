@@ -34,6 +34,52 @@ Despite increasingly sophisticated security systems, attack vectors remain that 
 
 ## 2. Research Methodology
 
+```mermaid
+graph TD
+ A[User query] --> B[Keyword filter]
+ B --> C[Contextual analysis]
+ C --> D{Role validation}
+ D -->|Expert role| E[Filtering strictness reduction]
+ D -->|Regular user| F[Standard filtering]
+ E --> G[Response generation]
+ F --> G
+ G --> H{Response validation}
+ H -->|None| I[User output]
+ 
+ style E fill:#f96
+ style H fill:#f96
+```
+
+### 2.0 Specific vulnerabilities
+
+1. **Role Trust Vulnerability** (CWE-863):
+ - The system overly trusts "expert" roles
+ - Does not check the user's actual expertise
+
+2. **Context Bypass** (CWE-693):
+ - The educational context disables strict filters
+ - Lack of verification of actual intentions
+
+3. **Scientific Validation Gap**:
+ - No mechanism for verifying scientific accuracy
+ - Lack of integration with scientific databases
+
+### Immediate risks
+
+| Risk | Probability | Impact | Overall level |
+|------|------------|---------|---------------|
+| Spread of dangerous misinformation | High | Medium | Medium |
+| Creation of a false sense of security | High | High | High |
+| Potential physical harm | Medium | Critical | High |
+| Disrupting trust in the system | High | High | High |
+
+### Exploitation in the wild
+
+**Potential attackers:**
+1. **Incompetent enthusiasts** - may attempt to reproduce dangerous procedures
+2. **Disinformation spreaders** - use of "scientific" appearance for legitimacy
+3. **Malicious actors** - search for vulnerabilities to generate prohibited content
+   
 ### 2.1 Testing Approach
 
 The research employed Responsible AI Security Testing methodology:
